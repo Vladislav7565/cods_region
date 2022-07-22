@@ -1,0 +1,48 @@
+.cods_region {
+    position: absolute;
+    top: 50px;
+left: 500px;
+}
+.table {
+    position: absolute;
+    left: 450px;
+    top: 150px;
+   
+}
+.info_text {
+    position: absolute;
+    color: gray;
+    
+    top: 800px;
+    font-size: 20px;
+    left: -100px;
+}
+.info_text:hover {
+    color: white;
+}
+.hover:hover {
+    color: green;
+} 
+.hover:focus {
+    color: green;
+}
+.gray_color {
+    position: absolute;
+    left: -1000px;
+    top: 790px;
+    height: 200px;
+    width: 1600px;
+}
+.phone {
+    position: absolute;
+    top: 810px;
+    left: 300px;
+ width: 500px;
+    color: gray;
+}
+.e_mail {
+    position: absolute;
+    top: 850px;
+    left: 300px;
+    color: gray;
+     }

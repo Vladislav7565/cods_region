@@ -1,0 +1,13 @@
+@media all and (width: 500px) {
+    .cods_region {
+        position: absolute;
+        top: 50px;
+    left: 145px;
+    }
+    .table {
+        position: absolute;
+        left: 10px;
+        top: 150px;
+       
+    }
+}
